@@ -1,0 +1,17 @@
+<li><button onclick="opn('bashrc_color.pdf')">bashrc_color</button></li>
+<li><button onclick="opn('Cisco gyorskeresés.pdf')">Cisco gyorskeresés</button></li>
+<li><button onclick="opn('Felhasználók_hozzáadása_szervezeti_egységhez.pdf')">Felhasználók_hozzáadása_szervezeti_egységhez</button></li>
+<li><button onclick="opn('Linuxosszefoglalo.pdf')">Linuxosszefoglalo</button></li>
+<li><button onclick="opn('Microsoft azure.pdf')">Microsoft azure</button></li>
+<li><button onclick="opn('Szervezeti egységek - Csoportok - Felhasználók.pdf')">Szervezeti egységek - Csoportok - Felhasználók</button></li>
+<li><button onclick="opn('telepites-SZERVEREK KONFIGURALASA.pdf')">telepites-SZERVEREK KONFIGURALASA</button></li>
+<li><button onclick="opn('VIZSGA_SEGEDLET.pdf')">VIZSGA_SEGEDLET</button></li>
+<li><button onclick="opn('WinServer2019_DHCP.pdf')">WinServer2019_DHCP</button></li>
+<li><button onclick="opn('WS19-Linux-szerver-segedlet.pdf')">WS19-Linux-szerver-segedlet</button></li>
+<li><button onclick="opn('WS19_Biztonsagi_mentes_beallitasa.pdf')">WS19_Biztonsagi_mentes_beallitasa</button></li>
+<li><button onclick="opn('WS19_biztonsági_mentés.pdf')">WS19_biztonsági_mentés</button></li>
+<li><button onclick="opn('WS19_Csoportházirend.pdf')">WS19_Csoportházirend</button></li>
+<li><button onclick="opn('WS19_lemezkezelés.pdf')">WS19_lemezkezelés</button></li>
+<li><button onclick="opn('WS19_RAID.pdf')">WS19_RAID</button></li>
+<li><button onclick="opn('WS19_szerepkör_eltávolítás.pdf')">WS19_szerepkör_eltávolítás</button></li>
+<li><button onclick="opn('WS19_Új_háttértár.pdf')">WS19_Új_háttértár</button></li>

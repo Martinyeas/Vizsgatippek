@@ -1,0 +1,47 @@
+:root{
+    --bg : rgba(0, 0, 0, 0.816);
+    --fg : aliceblue;
+}
+
+body{
+    background-color: var(--bg);
+}
+h1{
+    color: var(--fg);
+}
+p{
+    color: var(--fg);
+}
+h2{
+    color: var(--fg);
+}
+
+a{
+    font-size: 25px;
+    color: var(--fg);
+}
+
+ul > li{
+    display: inline-block;
+    margin-right: 5px;
+    font-size: 25px;
+    color: var(--fg);
+}
+
+iframe{
+    width: 100%;
+}
+
+button {
+    border-radius: 10px;
+    background-color: var(--fg);
+    font-size: large;
+    color: var(--bg);
+    font-weight: bold;
+    transition: all .14s;
+}
+button:hover{
+    border-radius: 0px;
+    color: var(--fg);
+    background-color: var(--bg);
+}
